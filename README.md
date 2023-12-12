@@ -36,19 +36,18 @@ This weather app allows users to get real-time weather details for a specific ci
 ```bash
 git clone https://github.com/JoyOffere/Web-APIs_Group_7.git
 
-## How to use it
-
 1. Open index.html in your preferred web browser.
-
 2. Type the name of a city in the search bar and press enter to get weather details.
 
+```markdown
 ## Technologies Used
 
-HTML
-CSS
-JavaScript
-OpenWeather API
+- HTML
+- CSS
+- JavaScript
+- OpenWeather API
 
 ## Acknowledgments
 
-We would like to thank the developers of the OpenWeather API for providing the weather data used in this app.
+We would like to thank the developers of the [OpenWeather API](https://openweathermap.org/) for providing the weather data used in this app.
+
