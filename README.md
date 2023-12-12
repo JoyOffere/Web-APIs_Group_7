@@ -38,6 +38,10 @@ This weather app allows users to get real-time weather details for a specific ci
 
 We would like to thank the developers of the [OpenWeather API](https://openweathermap.org/) for providing the weather data used in this app.
 
+Additionally, we extend our thanks to the following platforms for the visual elements used in our application:
+- [Freepik](https://www.freepik.com/) for providing images used in the app
+
+
 ## Getting Started
 
 1. Clone the repository:
