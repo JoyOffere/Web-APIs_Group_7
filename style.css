@@ -4,10 +4,12 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+
 body {
     /* background-color: aliceblue; */
     background-image: url(https://source.unsplash.com/1600x900/?night);
 }
+
 .card {
     width: 70%;
     max-width: 430px;
@@ -19,12 +21,14 @@ body {
     padding: 40px 35px;
     text-align: center;
 }
+
 .search {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
+
 .search input {
     border: 0;
     outline: 0;
@@ -37,6 +41,7 @@ body {
     margin-right: 16px;
     font-size: 18px;
 }
+
 .search button {
     border: 0;
     outline: 0;
@@ -46,6 +51,7 @@ body {
     height: 60px;
     cursor: pointer;
 }
+
 .search button img {
     width: 18px;
     /* height: 66px; */
@@ -57,15 +63,18 @@ body {
     color: #37b3a0;
     margin-top: 30px;
 }
+
 .weather h1 {
     font-size: 40px;
     font-weight: 500;
 }
+
 .weather h2 {
     font-size: 23px;
     font-weight: 400;
     margin-top: -5px;
 }
+
 .details {
     display: flex;
     align-items: center;
@@ -73,24 +82,29 @@ body {
     padding: 0 20px;
     margin-top: 50px;
 }
+
 .col {
     display: flex;
     align-items: center;
     text-align: left;
 }
+
 .col img {
     width: 40px;
     height: 40px;
     margin-right: 10px;
     margin-top: 5px;
 }
+
 .humidity, .wind {
     font-size: 22px;
     /* margin-top: 10px; */
 }
+
 .weather {
     display: none;
 }
+
 .error {
     text-align: center;
     margin-right: 10px;
