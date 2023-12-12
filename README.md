@@ -6,7 +6,7 @@ This weather app allows users to get real-time weather details for a specific ci
 
 ## Contributors
 
- [Favour Akinwande](https://github.com/FavourAkinwande)
+- [Favour Akinwande](https://github.com/FavourAkinwande)
 - [God'sfavour Chukwudi Chidinma](https://github.com/GChukwudi)
 - [Chidiebere Ekwedike](https://github.com/cekwedike)
 - [Joy Offere](https://github.com/JoyOffere)
