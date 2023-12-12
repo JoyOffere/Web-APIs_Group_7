@@ -1,8 +1,6 @@
-# Web-APIs_Group_7
+# Group API Project - Web-APIs_Group_7
 
 # Weather App
-
-## Group API Project - Web-APIs_Group_7
 
 This weather app allows users to get real-time weather details for a specific city. It uses the OpenWeather API to fetch weather data based on the user's input.
 
@@ -29,17 +27,6 @@ This weather app allows users to get real-time weather details for a specific ci
 ![Screenshot 1](link-to-screenshot-1)
 ![Screenshot 2](link-to-screenshot-2)
 
-## Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/JoyOffere/Web-APIs_Group_7.git
-
-1. Open index.html in your preferred web browser.
-2. Type the name of a city in the search bar and press enter to get weather details.
-
-```markdown
 ## Technologies Used
 
 - HTML
@@ -51,3 +38,12 @@ git clone https://github.com/JoyOffere/Web-APIs_Group_7.git
 
 We would like to thank the developers of the [OpenWeather API](https://openweathermap.org/) for providing the weather data used in this app.
 
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/JoyOffere/Web-APIs_Group_7.git
+
+1. Open index.html in your preferred web browser.
+2. Type the name of a city in the search bar and press enter to get weather details.
