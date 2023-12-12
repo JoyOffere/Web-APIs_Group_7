@@ -20,7 +20,7 @@ This weather app allows users to get real-time weather details for a specific ci
 
 ## Demo Video
 
-[Watch the demo video](link-to-demo-video) to see how to use the app.
+[Watch the demo video](https://www.loom.com/share/29278499bc874232b6d0e76a79570c7f?sid=b9edaad3-7f2b-42c4-bb98-f13d74d4c0d8) to see how to use the app.
 
 ## Screenshots
 
